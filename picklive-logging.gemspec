@@ -5,7 +5,7 @@ require "picklive/logging/autoload"
 
 Gem::Specification.new do |s|
   s.name        = "picklive-logging"
-  s.version     = "1.0.0"
+  s.version     = "1.0.1.alpha"
   s.authors     = ["Craig Webster", "Levente Bagi"]
   s.email       = ["levente@picklive.com"]
   s.homepage    = "http://tech.picklive.com"
