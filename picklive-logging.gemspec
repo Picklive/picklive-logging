@@ -1,7 +1,4 @@
 # -*- encoding: utf-8 -*-
-$:.push File.expand_path("../lib", __FILE__)
-
-require "picklive/logging/autoload"
 
 Gem::Specification.new do |s|
   s.name        = "picklive-logging"
